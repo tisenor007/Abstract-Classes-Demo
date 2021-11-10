@@ -1,0 +1,7 @@
+C:\Users\W0455178\OneDrive - Nova Scotia Community College\VisualStudioProjects\Abstract Classes\Abstract Classes\bin\Debug\Abstract Classes.exe.config
+C:\Users\W0455178\OneDrive - Nova Scotia Community College\VisualStudioProjects\Abstract Classes\Abstract Classes\bin\Debug\Abstract Classes.exe
+C:\Users\W0455178\OneDrive - Nova Scotia Community College\VisualStudioProjects\Abstract Classes\Abstract Classes\bin\Debug\Abstract Classes.pdb
+C:\Users\W0455178\OneDrive - Nova Scotia Community College\VisualStudioProjects\Abstract Classes\Abstract Classes\obj\Debug\Abstract Classes.csproj.AssemblyReference.cache
+C:\Users\W0455178\OneDrive - Nova Scotia Community College\VisualStudioProjects\Abstract Classes\Abstract Classes\obj\Debug\Abstract Classes.csproj.CoreCompileInputs.cache
+C:\Users\W0455178\OneDrive - Nova Scotia Community College\VisualStudioProjects\Abstract Classes\Abstract Classes\obj\Debug\Abstract Classes.exe
+C:\Users\W0455178\OneDrive - Nova Scotia Community College\VisualStudioProjects\Abstract Classes\Abstract Classes\obj\Debug\Abstract Classes.pdb
